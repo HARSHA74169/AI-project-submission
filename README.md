@@ -26,3 +26,4 @@ Using Natural Language Processing (NLP) and statistical analysis, the project id
 - Monitor flagged employees monthly.
 - Recognize and reward consistently positive communicators.
 - Use predictive insights to plan HR interventions during high-stress periods.
+
